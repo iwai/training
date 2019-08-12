@@ -1,3 +1,4 @@
+# go lang note
 
 ## go env
 
